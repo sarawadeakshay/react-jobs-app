@@ -1,0 +1,48 @@
+[
+    {
+    "id": 1,
+    "title": "Frontend Developer",
+    "description": "Comfortable with modern JS stack, experience with React.",
+    "employment_type": "Full time"
+    }, {
+      "id": 2,
+      "title": "Frontend Developer with Angular exposure",
+      "description": "Comfortable with modern JS stack, experience with Angular.",
+      "employment_type": "Full time"
+    }, {
+      "id": 3,
+      "title": "Vue JS developer",
+      "description": "Comfortable with modern JS stack, experience with Vue.",
+      "employment_type": "Full time"
+    }, {
+      "id": 4,
+      "title": "VP, Engineering",
+      "description": "Comfortable with UI technologies and back end technologies. Should handle the UI, Back end and QA Pods. Atleast 12+ years experience required",
+      "employment_type": "Full time"
+    }, {
+      "id": 5,
+      "title": "Back end Developer",
+      "description": "Exp with Java 11",
+      "employment_type": "Full time"
+    }, {
+      "id": 6,
+      "title": "Frontend Developer",
+      "description": "Experience with React, GraphQL with 5+ years exp",
+      "employment_type": "Full time"
+    }, {
+      "id": 7,
+      "title": "Back end Developer",
+      "description": "Comfortable with Java, Spring, Hibernate and Python",
+      "employment_type": "Full time"
+    }, {
+      "id": 8,
+      "title": "Frontend Lead",
+      "description": "Lead with 8+ years exp in UI development",
+      "employment_type": "Full time"
+    }, {
+      "id": 9,
+      "title": "QA Manager",
+      "description": "10+ years experience managing teams. Well versed with manual and automation testing.",
+      "employment_type": "Full time"
+    }
+ ]

@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  padding: 20px 150px;
+}
+.title {
+  color: #e6af15;
+}
+.container {
+  background-color: #f4eff2;
+  min-height: 700px;
+}
+.main-container {
+  padding: 20px 150px;
+}
+.table-container {
+  max-height: 600px;
+  overflow-y: scroll;
+}
+.job-count {
+  padding-bottom: 20px;
+  color: #6cb347;
+}

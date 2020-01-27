@@ -1,0 +1,33 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.job-title {
+  color: #C84082;
+}
+.job-detail {
+  padding-top: 20px;
+}
+.job-field {
+  padding-bottom: 10px;
+  color: #525254;
+}
+.job-field .key {
+  display: inline-block;
+  width: 120px;
+}
+.job-field .value {
+  display: inline-block;
+  width: 1000px;
+  font-weight: bold;
+}
+.MuiButton-contained.apply-btn {
+  background-color: #e6af15;
+  color: #fff;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+.MuiButton-contained.apply-btn:hover {
+  background-color: #c99812;
+}
